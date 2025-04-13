@@ -1,80 +1,66 @@
-# TAS – EthoLabs 🌍💡
+# TAS _ EthoLabs
 
-**TAS (Trusted AI Systems)** is the core platform developed by **EthoLabs**, your ethical innovation partner.  
-We’re building a secure, modular, and human-first digital vessel where AI and people—starting with students and lifelong learners—can thrive together.
+## 🌱 Vision & Mission
 
----
+We believe the future of technology must be grounded in **dignity**, **collaboration**, and **accountability**.  
+EthoLabs is committed to designing systems that **uplift**, not overwhelm, that **empower**, not exploit.
 
-## 🌟 Why TAS?
+> _"Innovation aligned with human values. Tech that earns Your trust."_ – EthoLabs
 
-TAS is an app where **AI and people thrive together**.
-
-In today’s overwhelming digital world, it’s easy to lose track of relevant, trustworthy, and actionable information.  
-Whether you're planning your budget, looking for extra income, learning a new skill, or connecting with others—**TAS will be there for you**.
-
-### 🎯 TAS offers:
-- A built-in **AI companion**, your smart and friendly guide through digital noise
-- Goal tracking and progress celebration features
-- Community interaction and idea-sharing
-- Better decisions through collective wisdom and ethical AI
-
-**Join TAS – because better decisions lead to better outcomes.**
-
----
-
-## 🌱 About EthoLabs: Vision & Mission
-
-**EthoLabs (EthoVisionary Tech Solutions)** is a values-driven startup creating tech that fuels  
-growth, collaboration, and dignity. We believe that innovation should **uplift**, not exploit.
-
-> _"Innovation aligned with human values. Tech that earns your trust."_ – EthoLabs
+Whether it’s AI companions, community tools, or knowledge-sharing platforms, we strive to bridge the gap between **innovation** and **intention**.
 
 ---
 
 ## 🧩 Modular Architecture
 
-TAS is built using a modern, scalable tech stack:
+We build platforms that are:
 
-- 🧠 **Laravel** – Secure backend and API foundation  
-- 📱 **Flutter** – Cross-platform mobile apps  
-- 🐘 **PostgreSQL** – Robust data storage with JSONB support  
-- 🔐 **Sanctum** – API token-based authentication  
-- 🌐 **REST-first** with GraphQL readiness  
-- 🤝 **Consent and permissions** system per app & user scope
+- **Composable** – Designed to host or integrate with other services
+- **Secure by design** – Privacy-first, user-controlled systems
+- **Ethically guided** – AI and data systems with transparency at the core
+- **Open for collaboration** – API-ready and designed for ethical app integration
 
 ---
 
-## 🔗 Connected Apps (in progress)
+## 🔗 Projects in Progress
 
-- **KLAU** – Culturally-aware prompt journaling & AI data contribution app  
-- **TAS FinPlan** – Budgeting and financial growth tracking  
-- **TAS SkillPath** – Personal development through career-aligned goals  
-- **TAS Buddies** – Community-based peer collaboration tools
+### 🌐 TAS – ( Trusted AI Systems ) 
+TAS is the core platform developed by EthoLabs.
+We're building a secure, modular, and human-values-oriented digital vessel where AI and people can thrive together. ( Starting with students and life-long learners for MVP )
+TAS is Your personal AI companion and life assistant platform, helping You make better decisions, save time, and connect meaningfully with others.
 
-Apps connect to TAS via a **secure API** and must comply with user-granted scopes and transparent data practices.
 
----
-
-## 🛡️ Our Core Principles
-
-1. **Privacy is Power** – Data belongs to the user, always  
-2. **Consent is Clear** – No surprises, no hidden access  
-3. **AI is a Companion** – Helpful, never controlling  
-4. **Transparency by Default** – Users can see all logs and access  
-5. **Secure by Design** – From rate-limiting to scoped tokens  
-6. **Built for Good** – For learning, connecting, growing  
-7. **Trust is Earned Together** – Co-created with our community
+✍️ KLAU – Cultural AI Journaling
+A mindful journaling app for collecting, tagging, and optionally sharing culturally relevant thoughts, stories, and voice reflections.
+KLAU supports the development of a Latvian Large Language Model (LLM) through ethical, user-consented data contribution—preserving the richness of the Latvian language and culture in AI systems.
+Built for transparency, consent, and cultural respect.
 
 ---
 
+## 💫 Our Core Principles
+
+- **Ethical by Design** – Every choice we make serves our users, not algorithms
+- **User Sovereignty** – You control Your data and digital identity
+- **Transparency First** – No black boxes, no hidden flows
+- **Built for Good** – Our tech must support learning, growth, and dignity
+- **Community-led Evolution** – Feedback shapes our roadmap
+
+---
+
+## 🤝 Let’s Co-Create the Future
+
+EthoLabs is not just a company—it’s a movement for **ethical innovation**.  
+We welcome collaborators, visionaries, developers, researchers, and dreamers who believe that tech should be worthy of human trust.
+
+> Let’s shape a future where AI and people support and inspire each other.
+
+---
 ## 💬 Join the Journey
 
-TAS is more than a platform—it’s a **movement for mindful innovation**.
 
-We’re just getting started, and we’d love for you to be part of shaping the future.
+**© 2025 EthoLabs – EthoVisionary Tech Solutions**  
+_“Where innovation aligns with human values.”_
 
-> 🧭 Let’s build ethical systems where AI guides, not dictates—  
-> Where tech is truly worthy of our trust.
 
 ---
 
