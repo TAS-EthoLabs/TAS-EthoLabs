@@ -30,7 +30,7 @@ We're building a secure, modular, and human-values-oriented digital vessel where
 TAS is Your personal AI companion and life assistant platform, helping You make better decisions, save time, and connect meaningfully with others.
 
 
-✍️ KLAU – Cultural AI Journaling
+✍️ KLAU – Cultural AI Journaling . 
 A mindful journaling app for collecting, tagging, and optionally sharing culturally relevant thoughts, stories, and voice reflections.
 KLAU supports the development of a Latvian Large Language Model (LLM) through ethical, user-consented data contribution—preserving the richness of the Latvian language and culture in AI systems.
 Built for transparency, consent, and cultural respect.
