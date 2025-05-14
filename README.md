@@ -35,9 +35,9 @@ Innovakery is a pop-up innovation hub powered by community, curiosity, and the b
 Whether you're into tech, design, education, social change—or simply bursting with ideas—this is your space to connect, co-create, and grow something meaningful, together.
 We host spontaneous, community-driven events where inspiration flows freely, tools are shared, and minds collide. 
 From startup sketches to social impact sparks, Innovakery is where innovation meets joy—and rises like fresh dough.
-Come join our next pop-up—let’s bake something meaningful together. 🧑‍🍳❤️
+Come join our next pop-up event and let’s bake something meaningful together. 🧑‍🍳❤️
 
-✍️ KLAU – Cultural AI Journaling . 
+✍️ KLAU – Cultural AI Journaling ( currently on hold ) 
 A mindful journaling app for collecting, tagging, and optionally sharing culturally relevant thoughts, stories, and voice reflections.
 KLAU supports the development of a Latvian Large Language Model (LLM) through ethical, user-consented data contribution—preserving the richness of the Latvian language and culture in AI systems.
 Built for transparency, consent, and cultural respect.
