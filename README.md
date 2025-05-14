@@ -29,7 +29,7 @@ TAS is a gamified, project-based goal planner that helps you learn by doing, gro
  Start by choosing a journey or creating your own—like learning budgeting or launching a side hustle—then move through milestones in a fun, gamified way. Your custom AI companion offers smart, encouraging support, while your squad helps you stay motivated. Track your progress on a dynamic map, earn XP, unlock rewards, and share insights at every checkpoint with “I wish I knew this before” moments. Whether solo or in a team, TAS is built to boost confidence, inspire learning by doing, and make real progress feel exciting. With planned AR features like job shadowing previews and virtual goal simulations, TAS lets you explore your dreams before diving in. It’s more than an app—it’s a movement powered by community, curiosity, and meaningful growth. 🌱
 
 ### innovakery 🧑‍🍳 ⚙️ 💡 🧩
-    Where community meets creativity, ideas rise and solutions take shape. 
+    We organize spontaneous, community-driven events where creativity flows, ideas rise, and solutions take shape.
     Let’s bake something meaningful together.
 Innovakery is a pop-up innovation hub powered by community, curiosity, and the belief that everyone has something valuable to share.
 Whether you're into tech, design, education, social change—or simply bursting with ideas—this is your space to connect, co-create, and grow something meaningful, together.
